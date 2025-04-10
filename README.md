@@ -1,6 +1,6 @@
 # Laptop Price Predictor
 
-This project is a **Laptop Price Predictor** built using **Machine Learning**. The application predicts laptop prices based on various features such as brand, processor, RAM, storage, and more. The model has been deployed using **Streamlit** for a user-friendly web interface.
+This project is a **Laptop Price Predictor** built using **Machine Learning**. The application predicts laptop prices based on various features such as brand, processor, RAM, storage, and more.
 
 ## Features
 - Predicts laptop prices based on user-provided specifications.
