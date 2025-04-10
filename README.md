@@ -31,7 +31,7 @@ streamlit run app.py
 ```
 
 5. **Access the Web Interface**
-- Open [http://localhost:8501](http://localhost:8501) in your browser.
+- Open [https://huggingface.co/spaces/Anshul-jain07/LaptopPricePredictor] in your browser.
 
 ## Dataset
 The dataset includes features such as:
